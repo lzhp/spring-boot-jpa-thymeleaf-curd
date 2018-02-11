@@ -1,2 +1,2 @@
 # spring-boot-jpa-thymeleaf-curd
-a project for huaweiCloud test
+a project for jenkins test
